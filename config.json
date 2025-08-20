@@ -1,4 +1,7 @@
 {
+  "douban_proxy": "https://vd.gpx.qzz.io/?url=",
+  "image_proxy": "https://vd.gpx.qzz.io/?url=",
+  "downstream_proxy": "https://vd.gpx.qzz.io/?url=",
   "homepage_password": "19960106whs",
   "cache_time": 7200,
   "api_site": {
